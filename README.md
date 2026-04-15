@@ -51,14 +51,12 @@ Ancient India contributed significantly to science, philosophy, and culture, inf
 - Easy navigation
 - Fast and responsive design
 
----
 
 ## 📷 Preview
 
-(Add screenshots here)
-
----
-
+![...](./img/ss_1.png)
+![...](./img/ss_2.png)
+![...](./img/ss_3.png)
 ## 📚 Inspiration
 
 This project is inspired by the rich intellectual and cultural heritage of ancient India, which played a major role in shaping global knowledge systems.
